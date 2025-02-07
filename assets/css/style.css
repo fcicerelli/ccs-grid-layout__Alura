@@ -10,15 +10,15 @@
 }
 
 .encabezado {
-    background: lightblue;
+    
     grid-area: encabezado;
 }
 .contenido {
-    background: lightgray;
+    
     grid-area: contenido;
 }
 
 .rodapie { 
-    background: lightgoldenrodyellow;
+    
     grid-area: rodapie;
 }
