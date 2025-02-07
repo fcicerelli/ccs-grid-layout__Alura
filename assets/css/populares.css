@@ -51,7 +51,7 @@
 }
 .populares__card___titulo {
   color: #333333;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 .populares__card___data {
   color: #808080;
@@ -65,8 +65,8 @@
 }
 .populares__card___header {
   border-bottom: 1px solid #dcdcdc;
-  display: flex;
-  justify-content: space-between;
+  /* display: flex;
+  justify-content: space-between; */
 }
 .populares__boton {
   background: transparent;
